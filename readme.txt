@@ -1,6 +1,7 @@
 DESCRIPTION:
 A simple version of Conway's Game of Life written in C using the nCurses
 library.
+Press "p" to puase the program and "q" to quit.
 
 DEPENDENCIES:
 The only dependence is nCurses, on Debian-like system you can install it
